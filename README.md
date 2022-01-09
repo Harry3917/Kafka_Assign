@@ -41,7 +41,7 @@ sbt sbtversion
 git clone https://github.com/Harry3917/Kafka_Assign.git
 ```
 
-#### 2.Download(https://www.apache.org/dyn/closer.cgi?path=/kafka/2.8.0/kafka_2.13-3.0.0.tgz) the latest Kafka release and extract it:
+#### 2.Download(https://www.apache.org/dyn/closer.cgi?path=/kafka/3.0.0/kafka_2.13-3.0.0.tgz) the latest Kafka release and extract it:
 ```bash
 $ tar -xzf kafka_2.13-3.0.0.tgz
 $ cd kafka_2.13-3.0.0
